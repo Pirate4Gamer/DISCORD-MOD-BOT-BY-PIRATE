@@ -1,0 +1,2 @@
+# discord.js-ModerationBot-By-PiRaTEe
+This is a simple moderation bot with all basics commands that a bot needs!! This is the First version of this bot and the bot gets updated with new version every month!! So make sure to follow me on **[GitHub](https://github.com/pirate4gamer)** for latest updates!!
